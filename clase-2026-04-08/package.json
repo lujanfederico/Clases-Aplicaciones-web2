@@ -1,0 +1,15 @@
+{
+  "name": "clase-2026-04-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node index.mjs",
+    "leerAPI": "node leerAPI.mjs",
+    "escribirAPI": "node escribirAPI.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
